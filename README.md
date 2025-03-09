@@ -1,4 +1,4 @@
-# ML-Case-Study-Mid-Course-Summative-Assessment
+# ML-Retail Sales Prediction
 ![image](https://github.com/user-attachments/assets/01fbf011-ec0d-4097-b545-05f988b8d414)
 
 ![image](https://github.com/user-attachments/assets/d075ad63-ceee-48d4-9573-bb60a0a8773c)
