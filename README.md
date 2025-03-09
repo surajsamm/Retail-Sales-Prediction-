@@ -1,4 +1,10 @@
 # ML-Case-Study-Mid-Course-Summative-Assessment
+![image](https://github.com/user-attachments/assets/01fbf011-ec0d-4097-b545-05f988b8d414)
+
+![image](https://github.com/user-attachments/assets/d075ad63-ceee-48d4-9573-bb60a0a8773c)
+![image](https://github.com/user-attachments/assets/0f7c504e-eeb9-42e0-b29a-e6e7ec991bfa)
+
+
 
 Guidelines for the ML Case Study:
 
